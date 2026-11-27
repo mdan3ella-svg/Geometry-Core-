@@ -1,0 +1,36 @@
+{
+  "selfChecks": {
+    "Box": "PASS",
+    "Cylinder": "PASS",
+    "Sphere": "PASS",
+    "Cone": "PASS",
+    "Torus": "PASS",
+    "Wedge": "PASS",
+    "quadSplit": "PASS",
+    "samples": "PASS"
+  },
+  "GPU": false,
+  "worker": {
+    "before": 2048,
+    "after": 8192,
+    "pass": true,
+    "status": "Worker operation complete"
+  },
+  "undo": true,
+  "pageErrors": [],
+  "surface.glb": {
+    "header": true,
+    "meshes": 6,
+    "normals": true
+  },
+  "industrial.glb": {
+    "header": true,
+    "meshes": 22,
+    "normals": true
+  },
+  "architecture.glb": {
+    "header": true,
+    "meshes": 24,
+    "normals": true
+  }
+}
